@@ -1,4 +1,4 @@
-# Asian-paints-insight-project ( Data Analytics & AI-Powered Visualization)
+# Asian-paints-Analytics-case-study(AI- Assisted Visualization )
 # Introduction 
 
 # The Asian Paints Insight Project is a data-driven analytics initiative designed to extract meaningful business insights from datasets related to sales performance, product categories, regional demand, and customer behavior.
